@@ -1,1 +1,5 @@
+<<<<<<< HEAD
   commit this file and delete it
+=======
+commit this file and delete it full full
+>>>>>>> parent of 50a5967... dd
